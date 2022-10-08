@@ -1,5 +1,6 @@
 let url;
 let fontRegular, fontItalic;
+
 function preload() {
   fontRegular = loadFont("assets/FragmentMono-Regular.otf");
   fontItalic = loadFont("assets/FragmentMono-Italic.otf");
